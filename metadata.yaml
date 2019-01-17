@@ -1,0 +1,26 @@
+_repo: Infinity-s-Child_58682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Vet, Charles V. (Charles Vincent)
+    aliases:
+    - De Vet, Charles Vincent
+    - DeVet, Charles V.
+    - Vet, Charles V. de
+    birthdate: 1911
+    deathdate: 1997
+    gutenberg_agent_id: '32106'
+    url: http://www.gutenberg.org/2009/agents/32106
+description: ''
+gutenberg_issued: '2019-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Infinity's Child
+url: http://www.gutenberg.org/ebooks/58682
